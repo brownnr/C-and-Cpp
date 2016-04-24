@@ -1,0 +1,10 @@
+?Does it live in the water?
+?Is it a mammal?
+-whale
+-sea turtle
+?Does it climb trees?
+?Does it purr?
+-monkey
+-cat
+?Does it bark?
+-dog
